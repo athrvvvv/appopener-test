@@ -1,11 +1,17 @@
-import os, json, re, sys, subprocess
+import os, json, re, sys, subprocess, platform
 from . import update_list
 
 # check what os the library is running on
+import os
+import platform
+
 def check_os():
     os_name = os.name
-    if os_name != "nt":
-        raise Exception("AppOpener only works on Windows.")
+    system_name = str(platform.system()).lower()
+    if os_name == "nt" or system_name == "darwin":
+        pass
+    else:
+        raise Exception("AppOpener only works on Windows or MacOS.")
         exit()
 
 # Get path of working directory
