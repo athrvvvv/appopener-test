@@ -1,4 +1,4 @@
-__version__ = "1.7"
+__version__ = "1.8"
 from . import check, update_list, commands, features
 from difflib import SequenceMatcher
 import os, re

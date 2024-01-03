@@ -1,6 +1,6 @@
 from __future__ import print_function, unicode_literals, absolute_import
 
-name = 'appopener'
+name = 'appopener_test'
 
 branch = ''
 version = '1.7'
@@ -32,6 +32,7 @@ keywords = ['appopener',
 classifiers = ['Development Status :: 5 - Production/Stable',
                'Environment :: Console',
                'Operating System :: Microsoft :: Windows',
+               'Operating System :: MacOS',
                'License :: OSI Approved :: MIT License',
                'Programming Language :: Python :: 3.5',
                'Programming Language :: Python :: 3.6',

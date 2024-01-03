@@ -10,7 +10,7 @@ except ImportError:
 
 from release import *
 
-packages = ['AppOpener']
+packages = ['appopener_test']
 
 
 setup(name=name,
@@ -33,7 +33,7 @@ setup(name=name,
     },
       platforms        = platforms,
       keywords         = keywords,
-      py_modules       = ['AppOpener'],
+      py_modules       = ['appopener_test'],
       packages         = packages,
       include_package_data=True,
       install_requires=install_requires,
