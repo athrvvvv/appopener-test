@@ -3,7 +3,7 @@ from __future__ import print_function, unicode_literals, absolute_import
 name = 'appopener_test'
 
 branch = ''
-version = '1.7'
+version = '1.9'
 description = "Open/Close any application by it's name."
 a = open("appopener_test/README.md",encoding="utf8")
 read = a.read()
