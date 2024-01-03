@@ -5,7 +5,7 @@ name = 'appopener_test'
 branch = ''
 version = '1.7'
 description = "Open/Close any application by it's name."
-a = open("AppOpener/README.md",encoding="utf8")
+a = open("appopener_test/README.md",encoding="utf8")
 read = a.read()
 long_description = read
 
