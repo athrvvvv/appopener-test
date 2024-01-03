@@ -4,7 +4,7 @@ AppOpener is the python library to **open/close** any application **without know
 
 Library works on python version 3.5 or above python version 3.5+
 
-[![PyPI Downloads](https://img.shields.io/pypi/dm/AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![PyPI Downloads](https://img.shields.io/pypi/status/AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![PyPI Downloads](https://img.shields.io/pypi/v/AppOpener?label=AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![Windows Only](https://img.shields.io/badge/platform-windows-blue.svg)](https://shields.io/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![PyPI Downloads](https://img.shields.io/pypi/status/AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![PyPI Downloads](https://img.shields.io/pypi/v/AppOpener?label=AppOpener)](https://pypi.org/project/AppOpener/) &nbsp; [![Windows & Mac](https://img.shields.io/badge/platform-windows%20%7C%20mac-blue.svg)](https://shields.io/)
 
 Visit official documentation of AppOpener [here](https://AppOpener.readthedocs.io/en/latest/).
 
