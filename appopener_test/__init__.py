@@ -1,7 +1,7 @@
 __version__ = "1.8"
 from . import check, update_list, commands, features
 from difflib import SequenceMatcher
-import os, re
+import os, re, subprocess
 
 check.check_os()
 # Checking if required files exists or not
